@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ProgressBar
+        android:id="@+id/product_progressbar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/image_item1"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_marginBottom="10dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ic_baseline_list_24"
+        android:alpha="0.4"
+        android:contentDescription="products image background" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/products_recview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

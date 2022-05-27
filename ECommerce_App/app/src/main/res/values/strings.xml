@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+
+    <string name="nav_product_list">Products</string>
+    <string name="menu_item2">Offers</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_cart">Cart</string>
+    <string name="notification_badge">9</string>
+    <string name="company_logo">Company logo</string>
+</resources>

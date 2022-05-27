@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/cart.xml" value="0.1865" />
+        <entry key="app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.153" />
+        <entry key="app/src/main/res/drawable/notification_badge.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2101654052734375" />
+        <entry key="app/src/main/res/layout/activity_products.xml" value="0.22870370370370371" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.24722222222222223" />
+        <entry key="app/src/main/res/layout/badge.xml" value="0.1358695652173913" />
+        <entry key="app/src/main/res/layout/fragment1.xml" value="0.1331521739130435" />
+        <entry key="app/src/main/res/layout/fragment2.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/fragment3.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment4.xml" value="0.12817028985507245" />
+        <entry key="app/src/main/res/layout/fragment5.xml" value="0.1068840579710145" />
+        <entry key="app/src/main/res/layout/products_recview.xml" value="0.1359375" />
+        <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.21574074074074073" />
+        <entry key="app/src/main/res/menu/bottombar_items.xml" value="0.14895833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
